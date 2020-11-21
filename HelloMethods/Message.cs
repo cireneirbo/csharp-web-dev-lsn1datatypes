@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if (lang.Equals("ge"))
+            {
+                return "You want car? Give us money!";
+            }
             else
             {
                 return "Hello World";
